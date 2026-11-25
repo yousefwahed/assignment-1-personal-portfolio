@@ -1,0 +1,120 @@
+.container {
+
+    background-color: #0c448d;
+    color: #f3f6fa;
+    text-align: center;
+}
+
+a {
+    color: #f1e9e9;
+    font-size: 16;
+}
+
+.about-content {
+    align-items: center;
+}
+
+.about-content img {
+    width: 115px;
+    height: 115px;
+}
+
+.about-text {
+    font-size: 16px;
+    display: inline-block;
+}
+
+.about-text strong {
+    color: #0874c5;
+}
+
+.GitHub {
+    display: inline-block;
+    background-color: #0c448d;
+    color: white;
+    font-size: 16px;
+}
+
+#skills>p {
+    font-size: 16px;
+
+}
+
+.skill-card {
+    width: 24%;
+    background: #f8fbff;
+    display: inline-block;
+}
+
+.skill-card h3 {
+    color: #0870b5;
+    font-size: 16px;
+}
+
+.skill-card p {
+    font-size: 14px;
+}
+
+.experience-card {
+    background-color: #f8fafc;
+
+
+}
+
+.experience-card img {
+    width: 70px;
+    height: 70px;
+    display: inline-block;
+}
+
+.experience-card h3 {
+    font-size: 16px;
+}
+
+.experience-card h4 {
+    color: #0870c0;
+    font-size: 16px;
+}
+
+.experience-card p {
+
+    font-size: 16px;
+}
+
+.experience-card2 {
+    background-color: #f8fafc;
+
+}
+
+.experience-card2 img {
+    width: 70px;
+    height: 70px;
+    display: inline-block;
+
+}
+
+
+
+/*contact        */
+.contact-section {
+    background-color: #1c4e80;
+    color: white;
+}
+
+.contact-section h2 {
+    color: white;
+}
+
+.contact-section>p {
+    font-size: 16px;
+}
+
+.contact-links a {
+    color: white;
+    background-color: rgba(255, 255, 255, 0.12);
+    font-size: 16px;
+}
+p {
+    text-align: center;
+    font-size: 16px;
+}
